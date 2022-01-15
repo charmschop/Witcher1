@@ -47,10 +47,6 @@ h2{
 link:hover{
     color: crimson;
 }
-footer{
-    color: white;
-    text-align: center;
-}
 .music-p, .music-audio{
     opacity: 0.6;
     color: white;
@@ -71,5 +67,12 @@ footer{
 .musics{
     display: flex;
     justify-content: center;
-    border-bottom: 1px white;
+}
+hr{
+    colr: white;
+    size: 1 px;
+}
+footer{
+    color: white;
+    text-align: center;
 }
