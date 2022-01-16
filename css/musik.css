@@ -39,6 +39,7 @@ h2{
 .text-p{
     padding: 20px;
     text-align: justify;
+    border-bottom: white 1px;
 }
 .link{
     color: brown;
@@ -46,6 +47,10 @@ h2{
 }
 link:hover{
     color: crimson;
+}
+footer{
+    color: white;
+    text-align: center;
 }
 .music-p, .music-audio{
     opacity: 0.6;
@@ -67,12 +72,4 @@ link:hover{
 .musics{
     display: flex;
     justify-content: center;
-}
-hr{
-    colr: white;
-    size: 1 px;
-}
-footer{
-    color: white;
-    text-align: center;
 }
